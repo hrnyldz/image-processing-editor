@@ -1,0 +1,58 @@
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\GrbZ\Documents\Visual Studio 2017\Projects\winform\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\STAJ DEFTERİ\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.pdb
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\GrbZ\Desktop\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\ders\yazlab1\1\160202105-140202010\YazLab1.1\YazLab1.1\obj\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\bin\Debug\YazLab1.1.exe.config
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\bin\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\bin\Debug\YazLab1.1.pdb
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1.1.csprojResolveAssemblyReference.cache
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1._1.Form1.resources
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1._1.Properties.Resources.resources
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1.1.csproj.GenerateResource.Cache
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1.1.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1.1.exe
+C:\Users\harun\Desktop\github\image processing editor\project\YazLab1.1\obj\Debug\YazLab1.1.pdb
